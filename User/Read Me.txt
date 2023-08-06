@@ -1,0 +1,4 @@
+語言設定 Language Setting (Setting.ini)
+支援語言 Language Support : 
+中文Chinese = zh
+英文English = en
